@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "appl97java",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732470155641,
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NWVhZjQ3MTcwOTFlZWJiOGZmZDMxMGJjM2JjMGZhYzcyNGRmYTkzODJmNDZiZjI3MjdhNDExYjk0ZjE4NjU0OTQyZjlhZmI3NDUzM2MyOGE3N2ZhOGM2ZjRmZmQ5NzM0MjNlZDg5NzZkMWFhMjUxNTI5ODZlOWQ5ZTZjMmFmZGM=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
